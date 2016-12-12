@@ -1,2 +1,2 @@
-# Rock-Schedule-Finder
-school scedule, what type of day is today, include pattern for this year, search for date and class period and see who is avaliable
+#Final for SAD
+Tanner Helton, TJ Helton, Tommy Haake, Tom Rasmussen
