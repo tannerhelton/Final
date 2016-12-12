@@ -23,7 +23,7 @@ class PostViewController: UIViewController {
     }
     
     @IBAction func btnSend_Tap(_ sender: UIButton) {
-        let url = "http://10.10.102.166:3000/task"
+        let url = "http://10.10.102.171:3000/task"
         
         let params: Parameters = [
             "subject" : txtSubject.text!,

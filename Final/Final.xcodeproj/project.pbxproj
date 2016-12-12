@@ -298,6 +298,7 @@
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = Final/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tannerhelton.Final;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -315,6 +316,7 @@
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = Final/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tannerhelton.Final;
 				PRODUCT_NAME = "$(TARGET_NAME)";

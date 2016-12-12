@@ -21,7 +21,7 @@ class GetViewController: UIViewController {
         lblSubject.text = ""
         lblDescription.text = ""
         
-        let geturl = "http://10.10.102.166:3000/tasks"
+        let geturl = "http://10.10.102.171:3000/tasks"
         
         Alamofire.request(geturl , method: .get, encoding: JSONEncoding(options: [])).responseJSON { response in
             debugPrint(response)
